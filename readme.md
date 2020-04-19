@@ -1,4 +1,4 @@
-Because I find typing everything out for creating a grid in tkinter,
+Because I find typing everything out for creating a grid in tkinter tedious,
 I tought of finding a way to create my interface in Photoshop, 
 then slice it as if I would export it to an html file table,
 then use the html and sliced images createed by Photoshop's 
