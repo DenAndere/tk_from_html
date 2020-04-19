@@ -9,3 +9,7 @@ It has only been tested with Photoshop-generated html
 It generates the names for the Tk frames and image objects from the filenames 
 of the images. Some fool proofing here was added so certain characters are 
 replaced by and underscore _.
+
+When creating the object, the name you want for the window object together with the
+html must be passed. You can also pass an optional Window Title.
+
